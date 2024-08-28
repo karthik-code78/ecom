@@ -1,4 +1,4 @@
-module ecom
+module github.com/karthik-code78/ecom
 
 go 1.22.5
 
