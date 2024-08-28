@@ -1,7 +1,7 @@
 package http_utils
 
 import (
-	"ecom/shared/utils/json_utils"
+	"github.com/karthik-code78/ecom/shared/utils/json_utils"
 	"net/http"
 )
 

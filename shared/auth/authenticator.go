@@ -1,9 +1,9 @@
 package auth
 
 import (
-	"ecom/shared/configure"
-	"ecom/shared/logging"
-	"ecom/shared/utils/http_utils"
+	"github.com/karthik-code78/ecom/shared/configure"
+	"github.com/karthik-code78/ecom/shared/logging"
+	"github.com/karthik-code78/ecom/shared/utils/http_utils"
 	"github.com/golang-jwt/jwt/v4"
 	"net/http"
 	"strings"

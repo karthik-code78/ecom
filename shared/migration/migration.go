@@ -1,8 +1,8 @@
 package migration
 
 import (
-	"ecom/shared/configure"
-	"ecom/shared/logging"
+	"github.com/karthik-code78/ecom/shared/configure"
+	"github.com/karthik-code78/ecom/shared/logging"
 )
 
 func Migrate(models ...interface{}) {

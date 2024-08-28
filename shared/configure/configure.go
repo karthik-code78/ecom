@@ -1,8 +1,8 @@
 package configure
 
 import (
-	"ecom/shared/logging"
-	"ecom/shared/utils/config_utils"
+	"github.com/karthik-code78/ecom/shared/logging"
+	"github.com/karthik-code78/ecom/shared/utils/config_utils"
 	"fmt"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

@@ -1,7 +1,7 @@
 package logging
 
 import (
-	"ecom/shared/utils/config_utils"
+	"github.com/karthik-code78/ecom/shared/utils/config_utils"
 	"fmt"
 	"github.com/sirupsen/logrus"
 	"io"

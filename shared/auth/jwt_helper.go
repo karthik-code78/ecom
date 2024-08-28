@@ -1,7 +1,7 @@
 package auth
 
 import (
-	"ecom/shared/configure"
+	"github.com/karthik-code78/ecom/shared/configure"
 	"github.com/golang-jwt/jwt/v4"
 	"time"
 )
